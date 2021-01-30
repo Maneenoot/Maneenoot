@@ -5,7 +5,7 @@
 ### Get in touch 😄 :smile:
 [Facebook](https://web.facebook.com/maneenoot.jaichaliew/)<br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1)
 
 
 
