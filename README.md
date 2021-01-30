@@ -5,6 +5,8 @@
 ### Get in touch 😄 :smile:
 [Facebook](https://web.facebook.com/maneenoot.jaichaliew/)<br>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
 
 
 
@@ -26,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
+ออกแบบ Github profile ให้สวยงามน่าสนใจ ด้วย README.md
 web ตกแต่ง
 https://www.markdownguide.org/cheat-sheet/
 https://gist.github.com/rxaviers/7360908
