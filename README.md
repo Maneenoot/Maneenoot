@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 web ตกแต่ง
 https://www.markdownguide.org/cheat-sheet/
 https://gist.github.com/rxaviers/7360908
+-->
